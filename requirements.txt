@@ -1,0 +1,5 @@
+Since we only use Python standard libraries (hashlib, time, os),
+add:
+
+python>=3.8
+
